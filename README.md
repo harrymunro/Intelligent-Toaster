@@ -1,4 +1,4 @@
-# Intelligent-Toaster
+# Smart Toaster
 
 Test case of a feedback loop, where the toaster "learns" how the user likes their toast done.
 
